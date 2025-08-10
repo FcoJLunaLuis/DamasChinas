@@ -15,6 +15,15 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sonidos","order":3,"path":"folders/Sonidos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"TitleSprite","order":16,"path":"folders/TitleSprite.yy",},
+    {"name":"Board","order":1,"path":"folders/TitleSprite/Board.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"baldoza_blanca","order":5,"path":"sprites/baldoza_blanca/baldoza_blanca.yy",},
+    {"name":"baldoza_negra","order":4,"path":"sprites/baldoza_negra/baldoza_negra.yy",},
+    {"name":"ficha_blanca_coronada","order":1,"path":"sprites/ficha_blanca_coronada/ficha_blanca_coronada.yy",},
+    {"name":"ficha_negra_coronada","order":3,"path":"sprites/ficha_negra_coronada/ficha_negra_coronada.yy",},
+    {"name":"ficha_negra","order":2,"path":"sprites/ficha_negra/ficha_negra.yy",},
+    {"name":"board_title_set","order":1,"path":"tilesets/board_title_set/board_title_set.yy",},
+  ],
 }
